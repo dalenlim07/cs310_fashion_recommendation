@@ -1,0 +1,10 @@
+# Data
+data/
+
+# __pycache__ files
+__pycache__/
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
